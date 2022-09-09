@@ -5,3 +5,5 @@ const personen = [
   { name: "Susan", age: 24 },
   { name: "Wibo", age: 19 },
 ];
+
+console.log("Mute");
