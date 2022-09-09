@@ -7,3 +7,4 @@ const personen = [
 ];
 
 console.log("Mute");
+console.log("Muting");
